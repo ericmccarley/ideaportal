@@ -1,0 +1,1 @@
+[14-Mar-2022 01:55:34 UTC] PHP Fatal error:  Access level to App\Models\Ideas::$timestamps must be public (as in class Illuminate\Database\Eloquent\Model) in C:\inetpub\wwwroot\Laravel 8 Projects\site1-app\app\Models\Ideas.php on line 8
