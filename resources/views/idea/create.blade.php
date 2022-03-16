@@ -1,1 +1,1 @@
-Create
+Create new idea
